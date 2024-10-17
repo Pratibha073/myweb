@@ -1,0 +1,5 @@
+let a = prompt("enter value of a")
+let b = prompt("enter value of b")
+let c = parseInt(a)
+let d = parseInt(b)
+document.write(c+d)
